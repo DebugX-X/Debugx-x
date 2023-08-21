@@ -1,6 +1,14 @@
 # 💫 About Me:
-🔭 I’m currently working on React Apps with ML/AI itegration <br>👯 I’m looking to collaborate on Data science projects<br>🌱 I’m currently learning Reinforcement learning, React hocks, and ML libraries <br>💬 Ask me about my current projects <br>
-
+🚀 Passionate about software engineering and machine learning. <br>
+🔭 Currently crafting full-stack solutions at Speedum Technologies Inc. <br>
+🌟 Leading technical initiatives as the Technical Lead at Google Developers Student Club – SFU Chapter. <br>
+🎯 Developing cutting-edge machine learning models, from inception to deployment. <br>
+🌱 Constantly learning and adapting to the ever-evolving tech landscape. <br>
+🤝 Eager to collaborate and contribute to open-source projects. <br>
+💡 Exploring the realms of AI, data visualization, and cloud technologies. <br>
+💬 Ask me about optimizing neural networks, building interactive web apps, or creating AI chatbots. <br>
+ <br>
+Feel free to connect with me on LinkedIn for more exciting insights! <br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Debug.X_x#2149) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vaibsaini) 
